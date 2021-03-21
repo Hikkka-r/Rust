@@ -7,6 +7,7 @@ public class Testitem {
     public Testitem(Integer id, String word) {
         this.id = id;
         this.word = word;
+        //CYH
     }
 
     public String getWord() {
